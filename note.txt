@@ -1,0 +1,6 @@
+- need to handle in admin dashboard if the order took more than 15 mins without action by the admin to be reflected as reflected
+- need to handle notification system ==> DB 
+- show the real order data to the user in order routes after place the order 
+- give the user option to get the reciept 
+- form where the admin can add a new product to his menu 
+- handle link the table with the QR

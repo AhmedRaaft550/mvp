@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* .ant-float-btn-group-trigger {
+  background-color: #000 !important;
+  border-radius: 50% !important;
+} */
+
+.ant-pro-chat-input-area-action-bar {
+  display: none !important;
+}
+
+@layer components {
+  .mainBg {
+    background-color: #001529 !important;
+  }
+}
